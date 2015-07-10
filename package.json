@@ -1,0 +1,10 @@
+{
+  "name": "kefir-store",
+  "version": "0.0.0",
+  "dependencies": {
+    "watchable-store": "git+ssh://git@github.com/fixplz/watchable-store.git"
+  },
+  "peerDependencies": {
+    "kefir": "^2.7.0"
+  }
+}
